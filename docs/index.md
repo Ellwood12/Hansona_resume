@@ -34,6 +34,7 @@ __Get Connected__,
 
 ## Technicial Skills
 
+__Applicable Skills__
 - Practice in current analysis, presentation, and collaboration tools (R, python, Github and Tableau).
 - Use SQL skills such as C.R.U.D. and query functions.
 - Know how to properly use matplotlib, pandas, and numpy.
