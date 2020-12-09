@@ -64,7 +64,7 @@ __Teachers Assistant- Pre Calculus__,
 `September 2016 - September 2018`
 __Full-time Volunteer Representative__,
 
-- Prepared and taught weekly training meetings or new volunteers to promote efficiency within groups
+- Prepared and taught weekly training meetings to new volunteers to promote efficiency within groups
 
 `July 2015`
 __Global Leadership Adventures__,
